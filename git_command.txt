@@ -1,4 +1,5 @@
 git status
 git add <filename>
 git commit -m "comment"
-(.venv) PS C:\Users\tejan\Downloads\AI_Project\aegis> 
+git push
+git status
