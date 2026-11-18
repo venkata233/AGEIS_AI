@@ -1,0 +1,10 @@
+fastapi
+uvicorn[standard]
+langgraph
+langchain-core
+langchain-google-genai
+langchain-text-splitters
+pydantic
+python-dotenv
+langchain-chroma
+mcp[cli]>=1.0,<2
